@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 textView.setText(R.string.eventMsg);
                 textView.setTextColor(Color.RED);
-                button.setEnabled(false);
             }
         });
     }
