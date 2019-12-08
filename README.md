@@ -1,3 +1,3 @@
 # TestApp
 
-May name is Farah Atieh
+My name is Farah Atieh
