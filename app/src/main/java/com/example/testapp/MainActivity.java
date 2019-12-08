@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 textView.setText(R.string.eventMsg);
-                button.setEnabled(false);
             }
         });
     }
